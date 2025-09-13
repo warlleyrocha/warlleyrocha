@@ -51,15 +51,18 @@ Focado em criar **interfaces performáticas e intuitivas**, aplicando boas prát
 ### 📂 Projetos em Destaque
 
 - [📱 **Imobi Fácil**](https://github.com/warlleyrocha/imobi-facil)  
-  Aplicativo mobile para gestão de imóveis.  
+  Aplicativo mobile para gestão de imóveis.
+  
   **Stack:** React Native, Expo, TailwindCSS, TypeScript, Axios.  
 
 - [📱 **InsuCheck**](https://insu-check.vercel.app/)  
   Aplicativo móvel para gerenciamento do tratamento de diabetes. Centraliza dados de saúde do usuário e fornece dashboards visuais.
+  
   **Stack:** React Native, Expo, TailwindCSS, TypeScript, Axios.  
 
 - [💻 **Éden (ERP)**](https://eden-generation.vercel.app/)  
   Plataforma multi-tenant com módulos de finanças, estoque e CRM, oferecendo gestão de clientes, orçamentos, controle de caixa, relatórios PDF e rastreamento de estoque.
+  
   **Stack:** React JS, TailwindCSS, TypeScript, Axios.  
 
 ---
