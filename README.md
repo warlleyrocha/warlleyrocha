@@ -63,7 +63,12 @@ Focado em criar **interfaces performáticas e intuitivas**, aplicando boas prát
 - [💻 **Éden (ERP)**](https://eden-generation.vercel.app/)  
   Plataforma multi-tenant com módulos de finanças, estoque e CRM, oferecendo gestão de clientes, orçamentos, controle de caixa, relatórios PDF e rastreamento de estoque.
   
-  **Stack:** React JS, TailwindCSS, TypeScript, Axios.  
+  **Stack:** React JS, TailwindCSS, TypeScript, Axios.
+
+- [💻📱 **Oficiais de Rede (PWA)**](https://github.com/warlleyrocha/oficiais-de-rede)  
+ PWA moderno para gerenciamento completo de materiais e relatórios de serviços para oficiais de rede em serviços de campo. Funciona offline e permite compartilhar texto no WhatsApp.
+  
+  **Stack:** React JS, React Hook Form, Zod, TailwindCSS, TypeScript.  
 
 ---
 
