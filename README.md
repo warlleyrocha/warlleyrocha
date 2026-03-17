@@ -35,20 +35,41 @@ Focado em criar **interfaces performáticas e intuitivas**, aplicando boas prát
 
 ### 🛠️ Stack & Tecnologias
 
+#### 🎨 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### ⚛️ Frameworks & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+#### 🎯 Estilização
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🔄 Gerenciamento de Estado
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+#### 🌐 Integração & API
 ![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)
+
+#### 🛠️ Ferramentas & Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### 🚀 Infra, Build & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![EAS Build](https://img.shields.io/badge/EAS_Build-000000?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
 ### 📂 Projetos em Destaque
+- [📱 **Kontas**](https://github.com/warlleyrocha/Kontas)  
+  Um aplicativo para gestão financeira de repúblicas e moradia compartilhada, desenvolvido com React Native e Expo. O Kontas facilita o controle de contas, divisão de despesas e gerenciamento de moradores.
+  
+  **Stack:** React Native, Expo, Nativewind, TypeScript, React Query, Sentry, Sonarqube.  
 
 - [📱 **Imobi Fácil**](https://github.com/warlleyrocha/imobi-facil)  
   Aplicativo mobile para gestão de imóveis.
